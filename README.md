@@ -18,4 +18,4 @@ python3 main.py
 ```
 
 ## Preview
-![index](https://raw.githubusercontent.com/MrG3P5/Domain-Grabber/main/Screenshot%20from%202024-01-24%2009-20-18.png)
+![index](https://raw.githubusercontent.com/derissDev/tess/refs/heads/main/Screenshot%202025-07-22%20074709.png)
