@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/57594747?s=400&u=da1eec8bf84a62a2ca11230d358dfac0bb000bcd&v=4" alt="png" width="128" height="128"/>
+<img src="[https://avatars.githubusercontent.com/u/57594747?s=400&u=da1eec8bf84a62a2ca11230d358dfac0bb000bcd&v=4](https://keker.fajar.co.id/wp-content/uploads/2025/01/kecantikan-ala-Dasha-taran.jpg)" alt="png" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Domain-Grabber" src="https://img.shields.io/badge/Domain Grabber-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
