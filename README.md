@@ -5,7 +5,7 @@
 <a href="#"><img title="Domain-Grabber" src="https://img.shields.io/badge/Domain Grabber-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MrG3P5"><img title="" src=""></a>
+<a href=""><img title="" src=""></a>
 </p>
 <br>
 
